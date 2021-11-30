@@ -7,6 +7,4 @@ import createApp from './app.js'
 const app = createApp(express, puppeteer, Zombie)
 
 app.listen(process.env.PORT || 3000)
-© 2021 GitHub, Inc.
-Terms
-Privacy
+
